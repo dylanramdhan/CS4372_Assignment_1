@@ -1,4 +1,4 @@
-# CS4372: Assignment #1
+# CS 4372: Assignment #1
 Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 
