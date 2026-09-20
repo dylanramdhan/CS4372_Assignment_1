@@ -3,7 +3,7 @@
 Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 ### Summary
-In this assignment, we are utilizing two differnt model constructs, [_SGDRegressor_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html) (from Python's Scikit-learn library) and _OLS_ (from Python's Statsmodels library). These models are performed over the dataset from the [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile) from the University of California, Irvine (UCI) Machine Learning Repo.
+In this assignment, we are comparing OLS vs an SGD regressor. An OLS model is a linear regression model that performs Gaussian elimination on a matrix to find the line of best fit and performs this action in O(n^3). An SGD regressor traces curves using derivatives to find a local minima for a line of best fit. It can do this in O(n) time, it tends to perform slightly worse than OLS, but can achieve this in much faster time.
 
 
 ### How To Run The Code
