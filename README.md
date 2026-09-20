@@ -1,5 +1,5 @@
 # CS4372: Assignment #1
-Teammates: Taylor Mitchell & Dylan Ramdhan
+Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 
 
