@@ -1,6 +1,7 @@
 # CS 4372: Assignment #1
 Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
+In this assignment, we are utilizing two differnt model constructs, SGDRegressor (from Python's Scikit-learn library) and OLS (from Python's Statsmodels library). These models are ran over the dataset from the [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile) from the UCI ML Repo.
 
 
 ## How To Run The Code
