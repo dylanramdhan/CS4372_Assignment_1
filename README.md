@@ -1,5 +1,6 @@
 # CS4372: Assignment #1
-Assignment #1 for CS 4372
+Teammates: Taylor Mitchell & Dylan Ramdhan
+
 
 
 ## How To Run The Code
