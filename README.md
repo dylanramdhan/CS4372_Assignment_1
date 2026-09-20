@@ -3,7 +3,7 @@
 Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 ### Summary
-In this assignment, we are utilizing two differnt model constructs, [_SGDRegressor_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html) (from Python's Scikit-learn library) and [_OLS_](https://www.statsmodels.org/stable/generated/statsmodels.regression.linear_model.OLS.html) (from Python's Statsmodels library). These models are ran over the dataset from the [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile) from the University of California, Irvine (UCI) Machine Leearning Repo.
+In this assignment, we are utilizing two differnt model constructs, [_SGDRegressor_](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html) (from Python's Scikit-learn library) and _OLS_ (from Python's Statsmodels library). These models are ran over the dataset from the [Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile) from the University of California, Irvine (UCI) Machine Leearning Repo.
 
 
 ### How To Run The Code
